@@ -4,7 +4,7 @@
 
 The purpose of this project is to create sorting algorithm.
 
-<img src="https://user-images.githubusercontent.com/71993796/150856328-0a045e27-cfe3-427c-ba52-5a621ff469f3.gif" width="500" />
+<img src="https://user-images.githubusercontent.com/71993796/150857231-f6ba2e2c-9abc-4a87-906f-b6c1c89f1554.gif" width="500" />
 
 # Rules
 - There are 2 stacks:
